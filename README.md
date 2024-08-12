@@ -32,7 +32,7 @@ I'm a passionate Backend Developer with a strong foundation in computer science 
 
 ### 📊 Stats
 
-![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinanandap&show_icons=true&theme=gruvbox)
+<!-- ![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinanandap&show_icons=true&theme=gruvbox) -->
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=kevinanandap&theme=gruvbox&border_radius=4.5) -->
 
@@ -40,6 +40,3 @@ I'm a passionate Backend Developer with a strong foundation in computer science 
 <details>
  <summary><h3>👨‍💻 Kevin's Coding Journey</h3></summary>
    I began my coding journey at the age of 15 during my sophomore year in high school, where I pursued a major in Software Engineering at SMK Telkom Purwokerto. My first programming language was Python, which I learned in the 10th grade. By the 11th grade, I expanded my skills by diving into HTML, CSS, JavaScript, TypeScript, React, CSharp, PHP, Node.js, Go, database management, and gitflow. I had the opportunity to intern remotely for 6 months as a backend developer, which sparked my deep interest in backend development. Since then, I’ve focused on honing my backend skills. In my senior year, I obtained Oracle certification and began building my portfolio on GitHub.
-<!-->
-[website]: https://fkcodes.com
-[youtube]: https://youtube.com/fknight
