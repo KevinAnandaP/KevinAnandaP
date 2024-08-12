@@ -49,9 +49,6 @@ I'm a passionate Backend Developer with a strong foundation in computer science 
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
 <!-- ![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinanandap&show_icons=true&theme=gruvbox) -->
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=kevinanandap&theme=gruvbox&border_radius=4.5) -->
