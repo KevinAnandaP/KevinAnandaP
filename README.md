@@ -36,7 +36,7 @@ I'm a passionate Backend Developer with a strong foundation in computer science 
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
-<!--### 📊 Stats-->
+### 📊 Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevinanandap&show_icons=true&locale=en&layout=compact" alt="kevinanandap" /></p>
 
