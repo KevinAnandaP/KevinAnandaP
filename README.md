@@ -7,7 +7,7 @@ I'm a passionate Backend Developer with a strong foundation in computer science 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/kevin-anandap/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="kevin-ananda-putra" height="30" width="40" /></a>
-<a href="https://www.instagram.com/kevinwlogic/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="kevin-ananda-putra" height="30" width="40" /></a>
+<a href="https://www.instagram.com/kevinwlogic/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" alt="kevin-ananda-putra" height="30" width="40" /></a>
 </p>
 
    <p align="left">
