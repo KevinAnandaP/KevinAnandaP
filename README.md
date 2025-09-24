@@ -4,13 +4,20 @@
 
 <div align="center">
   
+  [![Portfolio Website](https://img.shields.io/badge/🌐_Portfolio-kevinananda.my.id-FF6B6B?style=for-the-badge&labelColor=FF4757)](https://kevinananda.my.id)
+  
   ![Backend Development](https://img.shields.io/badge/FOCUS-Backend%20Development-blue?style=for-the-badge)
   ![Status](https://img.shields.io/badge/STATUS-Available%20for%20Projects-success?style=for-the-badge)
+  ![Experience](https://img.shields.io/badge/EXPERIENCE-4+%20Years-orange?style=for-the-badge)
   
 </div>
 
 ## 💫 About Me
-I'm a passionate **Backend Developer** with a strong foundation in computer science and a love for building robust, scalable server-side applications. Currently studying Informatics at Universitas Sebelas Maret, I specialize in designing efficient APIs, database architecture, and server infrastructure. I'm eager to apply my knowledge in real-world projects and continue growing as a developer.
+I'm a passionate **Backend Developer** with 4+ years of experience building robust, scalable server-side applications and RESTful APIs. Currently studying Informatics at Universitas Sebelas Maret, I specialize in Go, JavaScript, and modern database technologies.
+
+My journey in programming started with backend development, where I discovered my passion for building efficient APIs, database architecture, and server infrastructure. I've completed internships at **Suretyship.co.id** and **PT. Ali Data International**, working on user authentication systems, CRUD operations, and API documentation.
+
+When I'm not coding, I'm exploring new technologies, contributing to open source projects, and expanding my knowledge in cloud computing and distributed systems.
 
 <p align="center">
   <a href="https://github.com/KevinAnandaP?tab=followers">
@@ -32,63 +39,50 @@ I'm a passionate **Backend Developer** with a strong foundation in computer scie
 </div>
 
 <p align="center">
-  <img alt="Go" width="50px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg"/>
-  <img alt="Node.js" width="50px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img alt="Express" width="50px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-  <img alt="PHP" width="50px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img alt="C#" width="50px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img alt="Go" width="60px" style="padding:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg"/>
+  <img alt="Node.js" width="60px" style="padding:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img alt="JavaScript" width="60px" style="padding:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img alt="Java" width="60px" style="padding:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img alt="Python" width="60px" style="padding:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </p>
 
 <div align="center">
   
-### 💾 Database Management
+### 💾 Database Technologies
   
 </div>
 
 <p align="center">
-  <img alt="PostgreSQL" width="50px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-  <img alt="MongoDB" width="50px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
-  <img alt="MySQL" width="50px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  <img alt="Redis" width="50px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"/>
+  <img alt="PostgreSQL" width="60px" style="padding:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+  <img alt="MongoDB" width="60px" style="padding:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+  <img alt="Supabase" width="60px" style="padding:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg"/>
+  <img alt="Redis" width="60px" style="padding:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"/>
 </p>
 
 <div align="center">
   
-### 🔄 API Development & Testing
+### 🌐 Frontend & Frameworks
   
 </div>
 
 <p align="center">
-  <img alt="REST API" width="50px" style="padding:5px;" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>
-  <img alt="GraphQL" width="50px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"/>
-  <img alt="Swagger" width="50px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg"/>
+  <img alt="React" width="60px" style="padding:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img alt="Next.js" width="60px" style="padding:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  <img alt="TypeScript" width="60px" style="padding:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img alt="Tailwind CSS" width="60px" style="padding:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
 </p>
 
 <div align="center">
   
-### 🛠️ DevOps & Tools
+### �️ Tools & DevOps
   
 </div>
 
 <p align="center">
-  <img alt="Docker" width="50px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-  <img alt="Git" width="50px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img alt="GitHub" width="50px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img alt="Linux" width="50px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-</p>
-
-<div align="center">
-  
-### 🖥️ Frontend Skills
-  
-</div>
-
-<p align="center">
-  <img alt="React" width="50px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img alt="TypeScript" width="50px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img alt="JavaScript" width="50px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img alt="HTML" width="50px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img alt="CSS" width="50px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img alt="Docker" width="60px" style="padding:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+  <img alt="Git" width="60px" style="padding:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="Postman" width="60px" style="padding:8px;" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>
+  <img alt="VS Code" width="60px" style="padding:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 </p>
 
 ---
@@ -125,6 +119,15 @@ I'm a passionate **Backend Developer** with a strong foundation in computer scie
 </div>
 
 <p align="center">
+  <a href="https://kevinananda.my.id" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-kevinananda.my.id-FF6B6B?style=for-the-badge&labelColor=FF4757&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:kevinputraoffice@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-kevinputraoffice@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/kevin-anandap/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -135,17 +138,33 @@ I'm a passionate **Backend Developer** with a strong foundation in computer scie
 
 ---
 
+## 💼 Experience Highlights
+
+- **Backend Developer Intern** at **Suretyship.co.id** (July 2023 - Sept 2023)
+  - Managed CRUD operations and user authentication systems
+  - Developed API documentation with Swagger
+  - Implemented email verification and password recovery
+
+- **Backend Developer Intern** at **PT. Ali Data International** (April 2023 - June 2023)
+  - Collaborated on user system management for PLN and Ultilcall projects
+  - Built entities and CRUD operations using Go and PostgreSQL
+
+- **Staff Technology Development** at **BEM FATISDA UNS** (January 2025 - Present)
+- **Staff Technology** at **P!NGFEST** (May 2025 - Present)
+
+---
+
 <details>
   <summary><h3>👨‍💻 My Coding Journey</h3></summary>
   <p>
-    I began my coding journey at the age of 15 during my sophomore year in high school, where I pursued a major in Software Engineering at SMK Telkom Purwokerto. My first programming language was PHP, which I used to build web applications during my early learning phase.
+    I began my coding journey at age 15 with Software Engineering at SMK Telkom Purwokerto, starting with PHP for web development. My passion for backend development led me to master Go, JavaScript, Java, and Python, with expertise in building scalable server-side applications and RESTful APIs.
   </p>
   <p>
-    As I progressed, I became increasingly interested in server-side technologies and backend development. This led me to explore Go, which has become one of my primary languages for building efficient and scalable server-side applications. I've also worked extensively with Node.js and Express for API development, and have experience with various database systems including PostgreSQL, MongoDB, and Redis.
+    Through internships at Suretyship.co.id and PT. Ali Data International, I gained real-world experience in user authentication systems, database management, and API documentation. I've built 20+ projects including OAuth2 implementations, real-time chat systems, and modern web applications.
   </p>
   <p>
-    Now, as an Informatics student at Universitas Sebelas Maret, I focus on designing robust backend architectures, optimizing database performance, and implementing secure authentication systems. I continue to deepen my understanding of computer science principles while working on practical projects that challenge and expand my abilities as a backend developer.
+    Currently pursuing Informatics at Universitas Sebelas Maret while serving as Staff Technology at P!NGFEST and BEM FATISDA UNS. I focus on exploring cloud computing, microservices architecture, and contributing to open source projects.
   </p>
 </details>
 
-<!-- Last updated: 2025-06-17 -->
+<!-- Last updated: 2024-09-24 -->
