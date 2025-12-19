@@ -136,24 +136,6 @@ When I'm not coding, I'm exploring new technologies, contributing to open source
   </a>
 </p>
 
----
-
-## 💼 Experience Highlights
-
-- **Backend Developer Intern** at **Suretyship.co.id** (July 2023 - Sept 2023)
-  - Managed CRUD operations and user authentication systems
-  - Developed API documentation with Swagger
-  - Implemented email verification and password recovery
-
-- **Backend Developer Intern** at **PT. Ali Data International** (April 2023 - June 2023)
-  - Collaborated on user system management for PLN and Ultilcall projects
-  - Built entities and CRUD operations using Go and PostgreSQL
-
-- **Staff Technology Development** at **BEM FATISDA UNS** (January 2025 - Present)
-- **Staff Technology** at **P!NGFEST** (May 2025 - Present)
-
----
-
 <details>
   <summary><h3>👨‍💻 My Coding Journey</h3></summary>
   <p>
