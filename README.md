@@ -30,13 +30,6 @@
 
   <br /><br />
 
-  <!-- Stats Section -->
-  <h3>📊 GitHub Analytics</h3>
-
-  [![Vinneth's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinAnandaP)](https://github.com/KevinAnandaP/github-readme-stats)
-
-  <br />
-
   <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=kevinanandap&color=35b6f2&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
