@@ -1,9 +1,7 @@
 <div align="center">
 
-  <!-- Typing SVG Header -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=35b6f2&center=true&vCenter=true&width=450&lines=Hi+there!+%F0%9F%91%8B;I'm+Kevin+Ananda+Putra;Backend+Developer;Informatics+Student" alt="Typing SVG" />
 
-  <!-- Social Badges -->
   <p>
     <a href="https://kevinananda.my.id" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-101010?style=for-the-badge&logo=about.me&logoColor=white" />
@@ -24,13 +22,11 @@
 
   <br />
 
-  <!-- Simple Tech Stack -->
   <h3>🛠️ My toolkit</h3>
   <img src="https://skillicons.dev/icons?i=go,nodejs,js,java,python,postgres,mongodb,supabase,redis,docker,git,vscode,postman,react,nextjs,ts,tailwind&perline=10" />
 
   <br /><br />
 
-  <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=kevinanandap&color=35b6f2&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
 </div>
