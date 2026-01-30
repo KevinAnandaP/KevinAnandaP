@@ -22,7 +22,7 @@
 
   <br />
 
-  <h3>🛠️ My toolkit</h3>
+  <h3>Toolkit</h3>
   <img src="https://skillicons.dev/icons?i=go,nodejs,js,java,python,postgres,mongodb,supabase,redis,docker,git,vscode,postman,react,nextjs,ts,tailwind&perline=10" />
 
   <br /><br />
