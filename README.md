@@ -22,7 +22,7 @@
 
   <br />
 
-  <h3>What i use</h3>
+  <h3>What i usually use</h3>
   <img src="https://skillicons.dev/icons?i=go,nodejs,js,java,python,postgres,mongodb,supabase,redis,docker,git,vscode,postman,react,nextjs,ts,tailwind&perline=10" />
 
   <br /><br />
