@@ -26,7 +26,5 @@
   <img src="https://skillicons.dev/icons?i=go,nodejs,js,java,python,postgres,mongodb,supabase,redis,docker,git,vscode,postman,react,nextjs,ts,tailwind&perline=10" />
 
   <br /><br />
-
   <img src="https://komarev.com/ghpvc/?username=kevinanandap&color=35b6f2&style=flat-square&label=Profile+Views" alt="Profile Views" />
-
 </div>
